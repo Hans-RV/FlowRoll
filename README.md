@@ -24,3 +24,6 @@ This project demonstrates how to implement a transparent, decentralized lottery 
 - Mimics on-chain game / reward mechanics  
 - Bridges **Flow concepts** to **Solidity implementation**
 
+## 🧠 Wallet Address
+
+0xc98C9F8D98A7A5cbd5C7545f039da00d69ccae47
